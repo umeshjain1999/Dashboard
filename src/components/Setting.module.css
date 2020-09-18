@@ -1,0 +1,37 @@
+.setting{
+    padding-top: 3rem;
+    padding-left: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: var(--text-color);
+}
+.setting .general_text{
+font-size: 0.9rem;
+font-weight: 700;
+}
+.links {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.link {
+    width: 130px;
+    height: 130px;
+    border-radius: 5px;
+    background-color: var(--bg-secondary-2);
+    box-shadow: -1px 4px 9px -4px rgba(30, 30, 60, 0.21),
+                 0px 16px 23px -18px rgba(30, 30, 60, 0.09);
+    display: grid;
+    place-items: center;
+    color: var(--text-color);
+}
+
+.link img{
+    width: 60px;
+    height: 60px;
+}

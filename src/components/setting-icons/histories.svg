@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <g xmlns="http://www.w3.org/2000/svg">
+      <path d="m122 6h320v448h-320z" fill="#b9c2cf" data-original="#b9c2cf" style="" class=""></path>
+      <path d="m122 438h320v16h-320z" fill="#4b24a1" data-original="#95a4b6" style="" class=""></path>
+      <path d="m70 426v-368h320v448h-240z" fill="#ffffff" data-original="#ffffff" style="" class=""></path>
+      <path d="m150 490h240v16h-240z" fill="#dce1e7" data-original="#dce1e7" style="" class=""></path>
+      <path d="m70 426h80v80" fill="#4b24a1" data-original="#95a4b6" style="" class=""></path>
+      <g>
+        <g>
+          <path d="m118 186h224v160h-224z" fill="#dce1e7" data-original="#dce1e7" style="" class=""></path>
+          <path d="m262 250-40 40-24-24-80 80h224v-16z" fill="#4b24a1" data-original="#95a4b6" style="" class=""></path>
+          <path d="m342 330v16h-224l16-16z" fill="#72869e" data-original="#72869e" style="" class=""></path>
+        </g>
+      </g>
+      <g fill="#012d4a">
+        <path d="m448 0h-332v52h-52v376.485l83.515 83.515h248.485v-52h52zm-304 491.515-59.515-59.515h59.515zm240 8.485h-228v-80h-80v-356h308zm52-52h-40v-396h-268v-40h308z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m118 116h96v12h-96z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m118 148h96v12h-96z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m246 116h96v12h-96z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m246 148h96v12h-96z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m348 180h-236v172h236zm-12 12v123.515l-74-74.001-40 40-24-24-74 74v-139.514zm-203.515 148 65.515-65.515 51.757 51.757 8.485-8.485-27.757-27.757 31.515-31.515 74 73.999v7.516z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m118 372h224v12h-224z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m182 404h160v12h-160z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+        <path d="m182 436h160v12h-160z" fill="#000000" data-original="#012d4a" style="" class=""></path>
+      </g>
+    </g>
+  </g>
+</svg>

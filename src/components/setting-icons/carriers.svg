@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <path xmlns="http://www.w3.org/2000/svg" d="m5.563 7.75h-3.125c-.616 0-1.116.5-1.116 1.116v10.714c0 .37.3.67.67.67h4.018c.37 0 .67-.3.67-.67v-10.714c-.001-.616-.502-1.116-1.117-1.116z" fill="#6b53a1" data-original="#90caf9" style="" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m13.504 4.267h-3.007c-.592 0-1.074.482-1.074 1.074v13.748c0 .356.289.644.644.644h3.867c.356 0 .644-.289.644-.644v-13.748c0-.593-.482-1.074-1.074-1.074z" fill="#4b24a1" data-original="#64b5f6" style="" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m21.458 10.917h-2.917c-.575 0-1.042.467-1.042 1.042v7.5c0 .345.28.625.625.625h3.75c.345 0 .625-.28.625-.625v-7.5c.001-.575-.466-1.042-1.041-1.042z" fill="#5833a9" data-original="#2196f3" style="" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m23.25 21h-22.5c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h22.5c.414 0 .75.336.75.75s-.336.75-.75.75z" fill="#000000" data-original="#000000" style="" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m6.25 21h-4.5c-.414 0-.75-.336-.75-.75v-12c0-.689.561-1.25 1.25-1.25h3.5c.689 0 1.25.561 1.25 1.25v12c0 .414-.336.75-.75.75zm-3.75-1.5h3v-11h-3z" fill="#000000" data-original="#000000" style="" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m14.25 21h-4.5c-.414 0-.75-.336-.75-.75v-16c0-.689.561-1.25 1.25-1.25h3.5c.689 0 1.25.561 1.25 1.25v16c0 .414-.336.75-.75.75zm-3.75-1.5h3v-15h-3z" fill="#000000" data-original="#000000" style="" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m22.25 21h-4.5c-.414 0-.75-.336-.75-.75v-9c0-.689.561-1.25 1.25-1.25h3.5c.689 0 1.25.561 1.25 1.25v9c0 .414-.336.75-.75.75zm-3.75-1.5h3v-8h-3z" fill="#000000" data-original="#000000" style="" class=""></path>
+  </g>
+</svg>
